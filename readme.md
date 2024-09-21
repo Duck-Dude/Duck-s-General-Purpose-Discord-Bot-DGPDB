@@ -7,7 +7,7 @@ so node bot.js will start it
 so to use the bot on termux you need to do                 
 pkg install nodejs && npm install discord.js && node bot.js                    
 so for the config.txt file you can do multiple bots with the form of a-token-I-guess,another-token-I-guess
-if you just want one bot running just remove the comma
+if you just want one bot running just remove the comma (10 is the limit)
 yeah thanks for using my bot :D
 oh yeah message literally.baby.man.the.second if something broke or make a issue
 
