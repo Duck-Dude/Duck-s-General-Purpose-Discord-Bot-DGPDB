@@ -1,0 +1,1 @@
+#if you have multiple bots running, please make it like [your-token-here,your-other-token-here]
