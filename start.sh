@@ -1,3 +1,3 @@
 node bot.js
-node help.js
+node helper.js
 java -Dnogui -jar music.jar
