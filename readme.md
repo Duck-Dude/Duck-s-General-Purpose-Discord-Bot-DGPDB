@@ -12,10 +12,11 @@ yeah thanks for using my bot :D
 oh yeah message literally.baby.man.the.second if something broke or make a issue
 this does come with JMusicBot 0.4.3 so yea
 
-Tested on Lineage OS 20.0 (SM-T510), Android 11 (SM-T510), Android 13 (SM-S236DL) Windows 11 22H2 (22621, 4441), Node v22.8.0 (termux version) Node v18.16.0 (PC)
+Tested on Lineage OS 20.0 (SM-T510), Android 11 (SM-T510), Android 13 (SM-S236DL) Windows 11 22H2 (22621, 4441), Kubuntu 24.10 (main pc), Node v22.8.0 (termux version) Node v18.16.0 (PC)
 
 additional notes, this probally doesn't work on termux because something broke idk, currently working on an error system
 
+I personally don't prefer using this on windows due to low resource availability but you can still use it.
 
   help pasted below this text
 
