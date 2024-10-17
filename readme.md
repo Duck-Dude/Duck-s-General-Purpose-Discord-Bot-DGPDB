@@ -1,6 +1,6 @@
 oh hi I never knew someone would really look at my discord bot
 
-STATUS: unavailable, currently broken and im fixing it
+STATUS: unavailable, currently broken and im fixing it, currently working on installers
 
 well hi you might need to know how to use my discord bot
 so node bot.js will start it
