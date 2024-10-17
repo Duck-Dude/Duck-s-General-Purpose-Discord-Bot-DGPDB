@@ -1,6 +1,7 @@
 oh hi I never knew someone would really look at my discord bot
 
 STATUS: unavailable, currently broken and im fixing it, currently working on installers
+this might not work on windows as it corrupted my hard drive and im not using it at all any more so I can't test it
 
 well hi you might need to know how to use my discord bot
 so node bot.js will start it
